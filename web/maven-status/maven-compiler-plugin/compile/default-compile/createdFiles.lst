@@ -1,0 +1,12 @@
+com\rain\bean\UserBean.class
+com\rain\bean\UserResponseBean.class
+com\rain\utils\Response.class
+com\rain\utils\ResponseEnum.class
+com\rain\utils\CreateLoginHeaders.class
+com\rain\utils\RainHttpClient.class
+com\rain\bean\LoginResponseBean.class
+com\rain\utils\PropertyUtils.class
+com\rain\utils\LoginFormatter.class
+com\rain\controller\LoginController.class
+com\rain\bean\AllUserResponse.class
+com\rain\bean\LoginBean.class
